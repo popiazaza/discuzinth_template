@@ -2,9 +2,9 @@
 <root>
 	<item id="Title"><![CDATA[Discuz! Style]]></item>
 	<item id="Data">
-		<item id="name"><![CDATA[DIT Template]]></item>
+		<item id="name"><![CDATA[Discuz.in.th Template]]></item>
 		<item id="templateid"><![CDATA[2]]></item>
-		<item id="tplname"><![CDATA[discuzinth]]></item>
+		<item id="tplname"><![CDATA[Discuz.in.th Template]]></item>
 		<item id="directory"><![CDATA[./template/discuzinth]]></item>
 		<item id="copyright"><![CDATA[discuz.in.th]]></item>
 		<item id="style">
